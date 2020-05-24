@@ -1,0 +1,4 @@
+{"type":"FeatureCollection","features":[
+{"type":"Feature",
+"properties":{"Security":"SPX Index                                                       ","Date":"4/14/2020","PX_LAST":2846.06,"PX_VOLUME":742226553,"USD":"USD"},
+"geometry":{"type":"Polygon","coordinates":[[[-108.984375,40.17887331434696],[-105.1171875,40.17887331434696],[-105.1171875,43.32517767999296],[-108.984375,43.32517767999296],[-108.984375,40.17887331434696]]]}}]}
